@@ -14,4 +14,4 @@ public class Dictionary2 extends Book2
         System.out.println("Definitions per page: " + definitions/pages);
         System.out.println("CW 7.0 - Tharushi Jayasinghe");
     }
-} //end class Dictionary2
+} // end class Dictionary2
