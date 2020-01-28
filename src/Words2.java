@@ -6,4 +6,4 @@ public class Words2
         webster.pageMessage();
         webster.definitionMessage();
     } //end method main
-} //end class Words2
+} // end class Words2
