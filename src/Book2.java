@@ -11,4 +11,4 @@ public class Book2
     {
         System.out.println("Number of pages: " + pages);
     }
-} //end class Book2
+} // end class Book2
